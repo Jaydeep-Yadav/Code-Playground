@@ -2,6 +2,8 @@
 
 Used codemirror and react-codemirror2 for linting
 
+[Live Link](https://jaydeep-yadav.github.io/Code-Playground/)
+
 ![Code Playground](snap.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
